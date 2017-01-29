@@ -11,7 +11,7 @@ also provide a bit more friendly way to help people deal with their development 
 ## Installation
 
 ```bash
-$ git clone git://github.com/peterkokot/tracker
+$ git clone git://github.com/petk/tracker
 $ cd tracker
 $ composer install
 ```
